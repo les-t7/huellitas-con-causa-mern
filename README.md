@@ -1,0 +1,1 @@
+# huellitas-con-causa-mernnuesto proyecto se trata de una aplicacion que trata de venta de chalecos con un qr que al escanearlo te lleva a una aplicacion con los datos de la mascota y el dueño por si se pierde
