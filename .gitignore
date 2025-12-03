@@ -1,0 +1,13 @@
+# Ignorar la carpeta de módulos de Node
+/node_modules
+# Archivo de variables de entorno sensibles
+.env
+# Logs
+*.log
+# Build folders
+/dist
+/build
+# Frontend (React)
+.eslintcache
+# Backend (Node)
+npm-debug.log*
